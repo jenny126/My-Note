@@ -1,4 +1,7 @@
 # 本學期yum
+
+[![hackmd-github-sync-badge](https://hackmd.io/d6ECPOOsT0CFPN9JzdhI8g/badge)](https://hackmd.io/d6ECPOOsT0CFPN9JzdhI8g)
+
 yum install -y nfs-utils
 yum install samba samba-client samba-common -y
 yum install -y httpd
